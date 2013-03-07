@@ -8,8 +8,9 @@ API_PRAM = { 'event_id':'',
              'category':'',
              'category_detail':'',
              'ym':'',
-             'ymd':'' }
-
-             
+             'ymd':'',
+             'user_id':'',
+             'nickname':'',
+             'twitter_id':'' }
              
              
