@@ -6,7 +6,7 @@ atnd.py is a wrapper class that allows you to access [ATND API](http://atnd.org/
 
 ## Usage
 
-Query parameters must be set to ``Atnd`` class as arguments when you make an instance of the class. If you want to search a event regarding "ruby", you have to write argument like this: ``obj = Atnd(keyword="ruby")``  
+Query parameters must be set to ``Atnd`` class as arguments when you make an instance of the class. If you want to search a event regarding "ruby", you have to write argument like this: ``obj = Atnd(keyword="ruby")``. See [ATND API](http://atnd.org/doc/api.html) for detail on query parameters.
 
 ```python   
 from atnd import Atnd  
